@@ -16,14 +16,3 @@
   height:32px;
   font-weight:bold;
 }
-.list{
-  display:flex;
-  flex-direction:column;
-  justify-content:flex-start;
-}
-.Delete{
-  border:0px;
-  background-color:white;
-  color:red;
-  font-size:14px;
-}
